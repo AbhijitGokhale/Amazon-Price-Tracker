@@ -1,0 +1,2 @@
+# Amazon-Price-Tracker
+Recently there was an Amazon sale and I wanted to buy a product that I had been checking on for a long time. But, as I was ready to buy it I noticed that the price had increased and I wondered if the sale was even legitimate. So I figured by creating this price tracker app, it would not only increase my fluency in python but I would also have my very own home-brewed app to track amazon prices.
